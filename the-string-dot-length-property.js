@@ -27,4 +27,8 @@ let lengthThree; // Length of stringThree
 // Your code here
 
 
+console.log("Length of stringOne is " + stringOne.length);
+console.log("Length of stringTwo is " + stringTwo.length);
+console.log("Length of stringTwo is " + stringThree.length);
+
 
